@@ -10,7 +10,6 @@ The server handles connections, user authentication, and broadcasts messages to 
 
 ### 🔹 Server
 - Listens on port `5555`
-- Supports up to **4 clients**
 - Handles user authentication (hardcoded accounts)
 - Receives and broadcasts messages to all clients
 - Displays:
